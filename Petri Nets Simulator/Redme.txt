@@ -1,0 +1,5 @@
+Aceasta aplicatie de simulator pentru retele Petri este dezvoltata in limbajul C#.
+
+Pentru a putea rula si testa aplicatia trebuie sa aveti: 
+	1. IDE: Visual Studio 2015+
+	2. Sa definiti locatia folderului de intrare-calea (format JSON), din clasa JSONParser. Un exemplu de fisier JSON cu care aplicatia a fost testata se regaseste in "root" folder. 

@@ -1,0 +1,10 @@
+C:\Users\Benjamin Kelenyi\Desktop\PetriNetApplicaion\PetriNetApplicaion\bin\Debug\PetriNetApplicaion.exe.config
+C:\Users\Benjamin Kelenyi\Desktop\PetriNetApplicaion\PetriNetApplicaion\bin\Debug\PetriNetApplicaion.exe
+C:\Users\Benjamin Kelenyi\Desktop\PetriNetApplicaion\PetriNetApplicaion\bin\Debug\PetriNetApplicaion.pdb
+C:\Users\Benjamin Kelenyi\Desktop\PetriNetApplicaion\PetriNetApplicaion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Benjamin Kelenyi\Desktop\PetriNetApplicaion\PetriNetApplicaion\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Benjamin Kelenyi\Desktop\PetriNetApplicaion\PetriNetApplicaion\obj\Debug\PetriNetApplicaion.exe
+C:\Users\Benjamin Kelenyi\Desktop\PetriNetApplicaion\PetriNetApplicaion\obj\Debug\PetriNetApplicaion.pdb
+C:\Users\Benjamin Kelenyi\Desktop\SSATR Tema Laborator 1 - 30121 Kelenyi Benjamin\PetriNetApplicaion\bin\Debug\PetriNetApplicaion.exe.config
+C:\Users\Benjamin Kelenyi\Desktop\SSATR Tema Laborator 1 - 30121 Kelenyi Benjamin\PetriNetApplicaion\obj\Debug\PetriNetApplicaion.exe
+C:\Users\Benjamin Kelenyi\Desktop\SSATR Tema Laborator 1 - 30121 Kelenyi Benjamin\PetriNetApplicaion\obj\Debug\PetriNetApplicaion.pdb

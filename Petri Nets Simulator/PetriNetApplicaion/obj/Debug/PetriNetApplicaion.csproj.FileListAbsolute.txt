@@ -1,0 +1,17 @@
+C:\Users\Adi\Documents\Visual Studio 2017\PetriNetApplicaion\PetriNetApplicaion\bin\Debug\PetriNetApplicaion.exe.config
+C:\Users\Adi\Documents\Visual Studio 2017\PetriNetApplicaion\PetriNetApplicaion\bin\Debug\PetriNetApplicaion.exe
+C:\Users\Adi\Documents\Visual Studio 2017\PetriNetApplicaion\PetriNetApplicaion\bin\Debug\PetriNetApplicaion.pdb
+C:\Users\Adi\Documents\Visual Studio 2017\PetriNetApplicaion\PetriNetApplicaion\obj\Debug\PetriNetApplicaion.csprojResolveAssemblyReference.cache
+C:\Users\Adi\Documents\Visual Studio 2017\PetriNetApplicaion\PetriNetApplicaion\obj\Debug\PetriNetApplicaion.csproj.CoreCompileInputs.cache
+C:\Users\Adi\Documents\Visual Studio 2017\PetriNetApplicaion\PetriNetApplicaion\obj\Debug\PetriNetApplicaion.exe
+C:\Users\Adi\Documents\Visual Studio 2017\PetriNetApplicaion\PetriNetApplicaion\obj\Debug\PetriNetApplicaion.pdb
+C:\Users\Adi\Documents\Visual Studio 2017\PetriNetApplicaion\PetriNetApplicaion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adi\Documents\Visual Studio 2017\PetriNetApplicaion\PetriNetApplicaion\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Benjamin Kelenyi\Desktop\PetriNetApplicaion\PetriNetApplicaion\bin\Debug\PetriNetApplicaion.exe.config
+C:\Users\Benjamin Kelenyi\Desktop\PetriNetApplicaion\PetriNetApplicaion\obj\Debug\PetriNetApplicaion.exe
+C:\Users\Benjamin Kelenyi\Desktop\PetriNetApplicaion\PetriNetApplicaion\obj\Debug\PetriNetApplicaion.pdb
+C:\Users\Benjamin Kelenyi\Desktop\PetriNetApplicaion\PetriNetApplicaion\bin\Debug\PetriNetApplicaion.exe
+C:\Users\Benjamin Kelenyi\Desktop\PetriNetApplicaion\PetriNetApplicaion\bin\Debug\PetriNetApplicaion.pdb
+C:\Users\Benjamin Kelenyi\Desktop\PetriNetApplicaion\PetriNetApplicaion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Benjamin Kelenyi\Desktop\PetriNetApplicaion\PetriNetApplicaion\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Benjamin Kelenyi\Desktop\PetriNetApplicaion\PetriNetApplicaion\obj\Debug\PetriNetApplicaion.csprojResolveAssemblyReference.cache

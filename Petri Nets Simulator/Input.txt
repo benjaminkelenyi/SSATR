@@ -1,0 +1,6 @@
+{location:{Tokens: '0',Name: 'P1'}}
+{location:{Tokens: '0',Name: 'P2'}}
+{location:{Tokens: '0',Name: 'P3'}}
+{transition:{InLocationName :[],OutLocationName :['P1'],Delay :'1',name: 'T1', WaitingFor: '0'}}
+{transition:{InLocationName :[],OutLocationName :['P2'],Delay :'2',name: 'T2', WaitingFor: '0'}}
+{transition:{InLocationName :['P1','P2'],OutLocationName :['P3'],Delay :'1',name: 'T3', WaitingFor: '0'}}
