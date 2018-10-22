@@ -1,5 +1,6 @@
-Aceasta aplicatie de simulator pentru retele Petri este dezvoltata in limbajul C#.
+This Petri Nets Simulator application is developed in C# language.
 
-Pentru a putea rula si testa aplicatia trebuie sa aveti: 
+To run and test the app, you must have:
 	1. IDE: Visual Studio 2015+
-	2. Sa definiti locatia folderului de intrare-calea (format JSON), din clasa JSONParser. Un exemplu de fisier JSON cu care aplicatia a fost testata se regaseste in "root" folder. 
+	2. Define the  input file location (JSONParser class entry-to-path (JSON format)). 
+		An example of a JSON file with which the application was tested is found in the root directory.
